@@ -27,6 +27,12 @@
 
 ## 설치
 
+[MyLinks.zip](https://github.com/poketopa/my-links-mac-app/releases)에서 받을 수 있습니다.
+
 1. `MyLinks.app.zip` 파일의 압축을 풉니다.
 2. `MyLinks.app`을 `응용 프로그램` 폴더로 옮깁니다.
 3. `MyLinks.app`을 실행합니다.
+```
+macOS에서 “확인할 수 없는 개발자” 또는 “악성 코드가 없는지 확인할 수 없음” 경고가 뜰 수 있습니다.
+이 경우 시스템 설정 -> 개인정보 보호 및 보안 -> 아래쪽에 MyLinks.app 사용이 차단됨 -> 그래도 열기
+```
